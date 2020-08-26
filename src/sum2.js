@@ -1,6 +1,6 @@
 // Implement the sum function here
 
-function sum(a, b) {
+function sum2(a, b) {
     if (Number.isInteger(a) && Number.isInteger(b)) {
         return a + b;
     }
@@ -9,4 +9,4 @@ function sum(a, b) {
 
 
 
-module.exports = sum;
+module.exports = sum2;
