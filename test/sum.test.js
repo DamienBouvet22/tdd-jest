@@ -12,6 +12,6 @@ test ('1 argument of sum is a string', () => {
 });
 
 test ('both arguments of sum are strings', () => {
-    expect(sum('1','toto')).toEqual(expect.stringContaining('error'));
+    expect(sum('1','tata')).toEqual(expect.stringContaining('error'));
 
 });
