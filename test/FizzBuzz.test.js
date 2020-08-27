@@ -1,6 +1,6 @@
 // Add the unit tests of the fizzbuzz function here
 
-const list = require('../src/fizzbuzz');
+const list = require('../src/FizzBuzz');
 
 
 test('1 is 1', () => {
